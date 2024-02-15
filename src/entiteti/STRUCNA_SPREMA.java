@@ -1,0 +1,6 @@
+package entiteti;
+
+public enum STRUCNA_SPREMA {
+		NISKA, SREDNJE_NISKA, SREDNJA, SREDNJE_VISOKA, VISOKA;
+	
+}
